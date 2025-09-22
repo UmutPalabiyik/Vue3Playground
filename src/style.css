@@ -1,3 +1,6 @@
+/* Vuetify styles */
+@import 'vuetify/styles';
+
 /* Reset ve base styles */
 * {
   margin: 0;

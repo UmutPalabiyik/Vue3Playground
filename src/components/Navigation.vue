@@ -45,6 +45,7 @@ const navLinks = [
   { path: '/', label: 'Ana Sayfa', icon: '🏠' },
   { path: '/todos', label: 'Todo Listesi', icon: '📝' },
   { path: '/users', label: 'Kullanıcılar', icon: '👥' },
+  { path: '/forms', label: 'Formlar', icon: '📋' },
   { path: '/about', label: 'Hakkında', icon: 'ℹ️' }
 ]
 

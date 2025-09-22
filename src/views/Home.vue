@@ -19,6 +19,12 @@
       </div>
 
       <div class="feature-card">
+        <h3>📋 Form Yönetimi</h3>
+        <p>VeeValidate ve Vuetify ile modern form yapıları</p>
+        <router-link to="/forms" class="btn">Formlar</router-link>
+      </div>
+
+      <div class="feature-card">
         <h3>🌐 API Entegrasyonu</h3>
         <p>Axios ile HTTP istekleri ve async data fetching</p>
         <router-link to="/about" class="btn">Hakkında</router-link>
